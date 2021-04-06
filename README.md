@@ -9,9 +9,9 @@ Emissary Ingress [![Build Status][build-status]][build-pages] [![Docker Reposito
 [slack-url]:     https://a8r.io/slack
 [slack-join]:    https://img.shields.io/badge/slack-join-orange.svg
 
-Emissary Ingress is an open source ingress controller for Kubernetes built on Envoy Proxy. Originally known as the [Ambassador API Gateway](https://www.getambassador.io), Emissary is part of the [Cloud Native COmputing Foundation](https://cncf.io)
+Emissary Ingress is an open source ingress controller for Kubernetes built on Envoy Proxy. Originally known as the [Ambassador API Gateway](https://www.getambassador.io), Emissary is part of the [Cloud Native Computing Foundation](https://cncf.io).
 
-# Community
+## Community
 
 This is a place for Emissary community related material. You can find information on the project governance, community meetings, and a list of all the project maintainers.
 
