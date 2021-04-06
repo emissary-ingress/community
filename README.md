@@ -26,4 +26,3 @@ Note: We are in the process of migrating the [Ambassador GitHub repository](http
 
 * You can help [file or fix issues](https://github.com/datawire/ambassador/issues)
 * Check out [the code](https://github.com/datawire/ambassador)
-* Read our [Roadmap](https://github.com/emissary-ingress/community/blob/main/ROADMAP.md)
