@@ -22,7 +22,7 @@ THe Emissary project holds monthly community calls. To join or watch previous me
 ## Contributing
 We welcome contributions at [any level](https://github.com/emissary-ingress/community/blob/main/GOVERNANCE.md).
 
-Note: We are in the process of migrating the [Ambassador GitHub repository](https://github.com/datawire/ambassador) to this organization. This is a significant amount of work due to the amount of automated infrastructure (tests, continuous integration, release, etc.). In the meantime:
+Note: We are in the process of migrating the [Ambassador GitHub repository](https://github.com/datawire/ambassador) to this Github organization/repository. Due to the amount of automated infrastructure (tests, continuous integration, release, etc.), this migration is an interesting large amount of work; we expect to complete that move by July 2021. In the meantime:
 
-* You can help [file or fix issues](https://github.com/datawire/ambassador/issues)
-* Check out [the code](https://github.com/datawire/ambassador)
+* You can help [file or fix issues](https://github.com/datawire/ambassador/issues) on the existing respository, and
+* Check out [the code](https://github.com/datawire/ambassador) from the existing repository

@@ -16,7 +16,7 @@ This document defines the project governance for Emissary Ingress.
 
 New maintainers must be nominated by an existing maintainer and must be elected by a supermajority of existing maintainers. Likewise, maintainers can be removed by a supermajority of the existing maintainers or can resign by notifying one of the maintainers.
 
-If you're interested in becoming a maintainer, contact an existing maintainer to express your interest. A good way to start is to fix some small issues (if you haven't already), working with one or more existing maintainers. After a period of 3-4 months, the maintainers will discuss granting maintainer status.
+If you're interested in becoming a maintainer, contact an existing maintainer to express your interest. A good way to start is to fix some small issues (if you haven't already), working with one or more existing maintainers. As you build up a representative body of contributions, the maintainers will provide regular feedback on your progress towards maintainer status. After you have built up that representative body of contributions (usually over a period of 3-4 months), the maintainers will meet to discuss and vote on granting maintainer status.
 
 ### Decision Making
 
