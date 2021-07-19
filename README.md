@@ -17,7 +17,7 @@ This is a place for Emissary community related material. You can find informatio
 
 ## Community Meetings
 
-THe Emissary project holds monthly community calls. To join or watch previous meeting notes and recordings, please see [meeting schedule](MEETING_SCHEDULE.md).
+The Emissary project holds monthly community calls. To join or watch previous meeting notes and recordings, please see [meeting schedule](MEETING_SCHEDULE.md).
 
 ## Contributing
 We welcome contributions at [any level](https://github.com/emissary-ingress/community/blob/main/GOVERNANCE.md).
