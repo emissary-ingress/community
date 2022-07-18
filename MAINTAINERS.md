@@ -1,7 +1,7 @@
 # Emissary Maintainers
 
-[GOVERNANCE.md](https://github.com/emissary-ingress/community/blob/main/GOVERNANCE.md)
-describes governance guidelines and maintainer responsibilities.
+[GOVERNANCE.md](https://github.com/emissary-ingress/emissary/blob/master/GOVERNANCE.md)
+in [the main Emissary-ingress repo](https://github.com/emissary-ingress/emissary) describes governance guidelines and maintainer responsibilities.
 
 ## Maintainers
 
