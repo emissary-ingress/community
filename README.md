@@ -1,28 +1,45 @@
-Emissary Ingress [![Build Status][build-status]][build-pages] [![Docker Repository][docker-latest]][docker-repo] ![Docker Pulls][docker-pulls] [![Join Slack][slack-join]][slack-url]
+Emissary Ingress
 ==========
 
-[build-pages]:   https://travis-ci.org/datawire/ambassador
-[build-status]:  https://travis-ci.org/datawire/ambassador.png?branch=master
-[docker-repo]:   https://hub.docker.com/repository/docker/datawire/ambassador
-[docker-latest]: https://img.shields.io/docker/v/datawire/ambassador?sort=semver
-[docker-pulls]:  https://img.shields.io/docker/pulls/datawire/ambassador
-[slack-url]:     https://a8r.io/slack
-[slack-join]:    https://img.shields.io/badge/slack-join-orange.svg
+<!-- [![Alt Text][image-url]][link-url] -->
+[![Version][badge-version-img]][badge-version-link]
+[![Docker Repository][badge-docker-img]][badge-docker-link]
+[![Join Slack][badge-slack-img]][badge-slack-link]
+[![Core Infrastructure Initiative: Best Practices][badge-cii-img]][badge-cii-link]
 
-Emissary Ingress is an open source ingress controller for Kubernetes built on Envoy Proxy. Originally known as the [Ambassador API Gateway](https://www.getambassador.io), Emissary is part of the [Cloud Native Computing Foundation](https://cncf.io).
+[badge-version-img]: https://img.shields.io/docker/v/emissaryingress/emissary?sort=semver
+[badge-version-link]: https://github.com/emissary-ingress/emissary/releases
+[badge-docker-img]: https://img.shields.io/docker/pulls/emissaryingress/emissary
+[badge-docker-link]: https://hub.docker.com/r/emissaryingress/emissary
+[badge-slack-img]: https://img.shields.io/badge/slack-join-orange.svg
+[badge-slack-link]: https://a8r.io/slack
+[badge-cii-img]: https://bestpractices.coreinfrastructure.org/projects/1852/badge
+[badge-cii-link]: https://bestpractices.coreinfrastructure.org/projects/1852
 
-## Community
+[Emissary-Ingress](https://www.getambassador.io) is an open-source Kubernetes-native API Gateway +
+Layer 7 load balancer + Kubernetes Ingress built on [Envoy Proxy](https://www.envoyproxy.io).
+Emissary-ingress is a CNCF incubation project (and was formerly known as Ambassador API Gateway.)
 
-This is a place for Emissary community related material. You can find information on the project governance, community meetings, and a list of all the project maintainers.
+Community
+=========
+
+Emissary-ingress is a CNCF Incubating project and welcomes any and all contributors. To get started:
+
+* Join our [Slack channel](https://a8r.io/slack)
+* Check out the [Emissary documentation](https://www.getambassador.io/docs/emissary/)
+* Read the [Contributor's Guide](https://github.com/emissary-ingress/emissary/blob/master/DEVELOPING.md).
+
+If you're interested in contributing, here are some ways:
+
+* Write a blog post for [our blog](https://blog.getambassador.io)
+* Investigate an [open issue](https://github.com/emissary-ingress/emissary/issues)
+* Add [more tests](https://github.com/emissary-ingress/emissary/tree/master/ambassador/tests)
 
 ## Community Meetings
 
 The Emissary project holds monthly community calls. To join or watch previous meeting notes and recordings, please see [meeting schedule](MEETING_SCHEDULE.md).
 
-## Contributing
-We welcome contributions at [any level](https://github.com/emissary-ingress/community/blob/main/GOVERNANCE.md).
+## Project GitHub Repository
 
-Note: We are in the process of migrating the [Ambassador GitHub repository](https://github.com/datawire/ambassador) to this Github organization/repository. Due to the amount of automated infrastructure (tests, continuous integration, release, etc.), this migration is an interesting large amount of work; we expect to complete that move by July 2021. In the meantime:
-
-* You can help [file or fix issues](https://github.com/datawire/ambassador/issues) on the existing respository, and
-* Check out [the code](https://github.com/datawire/ambassador) from the existing repository
+The [main Emissary-ingress repo](https://github.com/emissary-ingress/emissary) is the home of
+Emissary-ingress.
