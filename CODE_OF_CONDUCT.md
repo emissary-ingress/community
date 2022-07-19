@@ -1,4 +1,4 @@
 ## Community Code of Conduct
 
-Ambassador follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
+Emissary-ingress follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
 
