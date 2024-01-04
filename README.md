@@ -12,7 +12,7 @@ Emissary Ingress
 [badge-docker-img]: https://img.shields.io/docker/pulls/emissaryingress/emissary
 [badge-docker-link]: https://hub.docker.com/r/emissaryingress/emissary
 [badge-slack-img]: https://img.shields.io/badge/slack-join-orange.svg
-[badge-slack-link]: https://a8r.io/slack
+[badge-slack-link]: https://communityinviter.com/apps/cloud-native/cncf
 [badge-cii-img]: https://bestpractices.coreinfrastructure.org/projects/1852/badge
 [badge-cii-link]: https://bestpractices.coreinfrastructure.org/projects/1852
 
@@ -25,15 +25,15 @@ Community
 
 Emissary-ingress is a CNCF Incubating project and welcomes any and all contributors. To get started:
 
-* Join our [Slack channel](https://a8r.io/slack)
+* Join our [Slack channel](https://communityinviter.com/apps/cloud-native/cncf) in #emissary-ingress
 * Check out the [Emissary documentation](https://www.getambassador.io/docs/emissary/)
 * Read the [Contributor's Guide](https://github.com/emissary-ingress/emissary/blob/master/DEVELOPING.md).
 
 If you're interested in contributing, here are some ways:
 
-* Write a blog post for [our blog](https://blog.getambassador.io)
 * Investigate an [open issue](https://github.com/emissary-ingress/emissary/issues)
-* Add [more tests](https://github.com/emissary-ingress/emissary/tree/master/ambassador/tests)
+* Contribute a PR
+* Improve Test Coverage
 
 ## Community Meetings
 
